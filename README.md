@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arya9525" alt="arya9525" /></a> </p>
 
-- 🔭 I’m currently working on [Android](KOTLIN,JAVA)
+- 🔭 I’m currently working on [WEB DEVELOPMENT]
 
-- 🌱 I’m currently learning **KOTLIN **
+- 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Android project**
+- 👯 I’m looking to collaborate on **MERN STACK**
 
-- 💬 Ask me about ** TECHNOLOGY **
+- 💬 Ask me about **TECHNOLOGY**
 
 - 📫 How to reach me **arya500245@gmail.com**
 
