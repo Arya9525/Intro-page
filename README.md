@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **MERN STACK**
 
-- 💬 Ask me about **TECH**
+- 💬 Ask me about **TECHNOLOGY**
 
 - 📫 How to reach me **arya500245@gmail.com**
 
