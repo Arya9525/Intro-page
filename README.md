@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,android,html,css,mysql,git,linux" />
+<!-- <img src="https://skillicons.dev/icons?i=java,python,javascript,react,android,html,css,mysql,git,linux" /> -->
 </p>
 
 ---
@@ -41,9 +41,9 @@
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://github.com/Arya9525" target="blank">
+<!-- <a href="https://github.com/Arya9525" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+</a> -->
 
 <a href="https://aryaportfo.netlify.app" target="blank">
 <img align="center" src="https://img.icons8.com/fluency/48/domain.png" height="40" />
