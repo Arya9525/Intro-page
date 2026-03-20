@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Arya Kumar Mishra</h1>
 <h3 align="center">AI Developer | React Native Intern | MCA Final Year</h3>
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 <p align="left"> 
-<!-- <img src="https://komarev.com/ghpvc/?username=Arya9525&label=Profile%20views&color=0e75b6&style=flat" alt="Arya9525" />  -->
+<img src="https://komarev.com/ghpvc/?username=Arya9525&label=Profile%20views&color=0e75b6&style=flat" alt="Arya9525" /> 
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-<!-- <img src="https://skillicons.dev/icons?i=java,python,javascript,react,android,html,css,mysql,git,linux" /> -->
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,android,html,css,mysql,git,linux" />
 </p>
 
 ---
