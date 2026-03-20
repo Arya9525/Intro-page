@@ -1,38 +1,62 @@
+<h1 align="center">Hi 👋, I'm Arya Kumar Mishra</h1>
+<h3 align="center">🚀 AI Developer | React Native Intern | MCA Final Year</h3>
 
-<h1 align="center">Hello, I'm Arya Kumar Mishra</h1>
-<h3 align="center">A passionate Devloper</h3>
-<img align="right"  alt="Coading" width="100" src="https://i.pinimg.com/736x/a6/0e/06/a60e06ec8d6d558f4c3fd57d06227425.jpg">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arya9525&label=Profile%20views&color=0e75b6&style=flat" alt="Arya925" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arya9525" alt="arya9525" /></a> </p>
+### 👨‍💻 About Me
+- 🎓 MCA Final Year Student (CGPA: 8.5)
+- 💼 React Native Intern (Mobile App Developer)
+- 🤖 Passionate about AI & Real-World Problem Solving
+- 🧠 Built AI-powered Chatbots & Smart Applications
+- 🌱 Currently learning **Advanced MERN & AI Integration**
+- ⚡ Fun fact: I turn ideas into real working apps 🚀
 
-- 🔭 I’m currently working on [WEB DEVELOPMENT]
+---
 
-- 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on **MERN STACK**
-
-- 💬 Ask me about **TECHNOLOGY**
-
-- 📫 How to reach me **arya500245@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech Stack
 <p align="left">
-
-<a href="https://www.linkedin.com/in/arya-kumar-mishra-2a64421a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arya-kumar-mishra" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100006295218217&mibextid=rS40aB7S9Ucbxw6v a"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Arya_Mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/_arya__mishra__
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arya__mishra__
-" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,android,html,css,mysql,git,linux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arya9525&show_icons=true&locale=en&layout=compact" alt="Arya9525" /></p>
+### 🏆 Certifications
+- ✔️ Tata Group  
+- ✔️ Accenture  
+- ✔️ AWS  
+- ✔️ Deloitte  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arya9525&show_icons=true&locale=en" alt="Arya9525" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arya9525&" alt="Arya9525" /></p>
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/arya-kumar-mishra-2a64421a1" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://instagram.com/_arya__mishra__" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+</p>
 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Arya9525&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arya9525&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya9525&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🤖 AI Chatbot (Python + NLP)
+- 📱 React Native Apps
+- 🌐 Web Applications (MERN)
+
+---
+
+### 💡 Quote
+> "Code. Create. Innovate. Repeat."
