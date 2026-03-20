@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm Arya Kumar Mishra</h1>
+<h1 align="center">Hi, I'm Arya Kumar Mishra</h1>
 <h3 align="center">AI Developer | React Native Intern | MCA Final Year</h3>
 
-<p align="center">
-  <a href="https://aryaportfo.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Arya9525" target="_blank">
-    <img src="https://img.shields.io/badge/💻 GitHub-Follow-black?style=for-the-badge" />
-  </a>
-  <a href="mailto:arya500245@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge" />
-  </a>
-</p>
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<!-- <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
+<p align="left"> 
+<!-- <img src="https://komarev.com/ghpvc/?username=Arya9525&label=Profile%20views&color=0e75b6&style=flat" alt="Arya9525" />  -->
+</p>
 
 ---
 
@@ -44,12 +36,23 @@
 
 ### 🌐 Connect with Me
 <p align="left">
+
 <a href="https://www.linkedin.com/in/arya-kumar-mishra-2a64421a1" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+
+<a href="https://github.com/Arya9525" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://aryaportfo.netlify.app" target="blank">
+<img align="center" src="https://img.icons8.com/fluency/48/domain.png" height="40" />
+</a>
+
 <a href="https://instagram.com/_arya__mishra__" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
+
 </p>
 
 ---
@@ -66,7 +69,7 @@
 ### 🚀 Featured Projects
 - 🤖 AI Chatbot (Python + NLP)  
 - 📱 React Native Apps  
-- 🌐 Web Applications (MERN)  
+- 🌐 MERN Stack Web Apps  
 
 ---
 
