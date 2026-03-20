@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arya Kumar Mishra</h1>
 <h3 align="center">🚀 AI Developer | React Native Intern | MCA Final Year</h3>
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 MCA Final Year Student (CGPA: 8.5)
+- 🎓 MCA Final Year Student
 - 💼 React Native Intern (Mobile App Developer)
 - 🤖 Passionate about AI & Real-World Problem Solving
 - 🧠 Built AI-powered Chatbots & Smart Applications
