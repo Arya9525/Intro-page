@@ -14,7 +14,7 @@
 - 💼 React Native Intern (Mobile App Developer)
 - 🤖 Passionate about AI & Real-World Problem Solving
 - 🧠 Built AI-powered Chatbots & Smart Applications
-- 🌱 Currently learning **Advanced MERN & AI Integration
+- 🌱 Currently learning Advanced MERN & AI Integration
 - ⚡ I love building apps that make life easier
 
 ---
